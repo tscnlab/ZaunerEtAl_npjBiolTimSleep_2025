@@ -1,3 +1,7 @@
+<img src="https://github.com/tscnlab/Templates/blob/main/logo/logo_with_text-01.png" width="400"/>
+
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.17535086.svg)](https://doi.org/10.5281/zenodo.17535086)
+
 # Auxiliary Data Questionnaire for Wearable Light Logger Studies
 
 Repository for the publication “Auxiliary data, quality assurance and quality control for wearable light loggers and optical radiation dosimeters” (Zauner et al. 2025)
