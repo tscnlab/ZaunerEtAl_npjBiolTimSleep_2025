@@ -1,0 +1,59 @@
+# This CITATION.cff file was generated with cffinit.
+# Visit https://bit.ly/cffinit to generate yours today!
+
+cff-version: 1.2.0
+title: Auxiliary data questionnaires
+message: >-
+  If you use this dataset, please cite it using the metadata
+  from this file.
+type: dataset
+authors:
+  - given-names: Johannes
+    family-names: Zauner
+    email: johannes.zauner@tum.de
+    affiliation: >-
+      Technical University of Munich & Max Planck Institute
+      for Biological Cybernetics
+    orcid: 'https://orcid.org/0000-0003-2171-4566'
+  - given-names: Oliver
+    family-names: Stefani
+    affiliation: >-
+      Lucerne University of Applied Sciences and Arts,
+      Lucerne, Switzerland
+    orcid: 'https://orcid.org/0000-0003-0199-6500'
+  - given-names: Gianfranco
+    family-names: Bocanegra
+    affiliation: The Hague University of Applied Sciences
+    orcid: 'https://orcid.org/0009-0004-5280-4657'
+  - given-names: Carolina
+    family-names: Guidolin
+    affiliation: Max Planck Institute for Biological Cybernetics
+    orcid: 'https://orcid.org/0009-0007-4959-2667'
+  - given-names: Björn
+    family-names: Schrader
+    affiliation: >-
+      Lucerne University of Applied Sciences and Arts,
+      Lucerne, Switzerland
+    orcid: 'https://orcid.org/0000-0002-8387-922X'
+  - given-names: Ljiljana
+    family-names: Udovicic
+    affiliation: >-
+      Federal Institute for Occupational Safety and Health
+      (BAuA), Dortmund, Germany  
+    orcid: 'https://orcid.org/0000-0002-6035-8309'
+  - given-names: Manuel
+    family-names: Spitschan
+    email: manuel.spitschan@tum.de
+    affiliation: >-
+      Technical University of Munich & Max Planck Institute
+      for Biological Cybernetics & TUMCREATE Ltd. & TUM
+      Institute for Advanced Study (TUM-IAS)
+    orcid: 'https://orcid.org/0000-0002-8572-9268'
+repository-code: 'https://github.com/tscnlab/ZaunerEtAl_npjBiolTimSleep_2025'
+keywords:
+  - light exposure
+  - wearables
+  - auxiliary data
+  - contextual data
+license: CC-BY-4.0
+date-released: '2025-11-05'

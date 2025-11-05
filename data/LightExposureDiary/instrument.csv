@@ -1,0 +1,10 @@
+"Variable / Field Name","Form Name","Section Header","Field Type","Field Label","Choices, Calculations, OR Slider Labels","Field Note","Text Validation Type OR Show Slider Number","Text Validation Min","Text Validation Max",Identifier?,"Branching Logic (Show field only if...)","Required Field?","Custom Alignment","Question Number (surveys only)","Matrix Group Name","Matrix Ranking?","Field Annotation"
+mhla_confirm,light_exposure_diary,,radio,"<div class=""rich-text-field-label""><p>Please complete the ""Light Exposure Diary"" on OneDrive before going to bed, using the link we emailed to you on the first day of the study.</p> <p><span style=""font-weight: normal;""> If you are unsure where to find this, email to Sarina<strong> <a href=""mailto:ge42god@mytum.de"" target=""_blank"" rel=""noopener"">(sarina.hilden@tum.de)</a></strong> or Suyoun<strong> <a href=""mailto:ge42god@mytum.de"" target=""_blank"" rel=""noopener"">(suyoun.lee@tum.de)</a></strong></span></p> <p>Please confirm that you did this</p></div>","1, Yes",,,,,,,y,,,,,
+mhlea_confidence,light_exposure_diary,,radio,"How sure are you about the light exposure categories you chose?","1, Not confident at all | 2, Slightly confident | 3, Somewhat confident | 4, Fairly confident | 5, Completely confident",,,,,,,,,,,,
+uuid,light_exposure_diary,"MyCap App Fields - Do Not Modify",text,UUID,,,,,,,,,,,,," @MC-TASK-UUID"
+startdate,light_exposure_diary,,text,"Start Date",,,,,,,,,,,,," @MC-TASK-STARTDATE"
+enddate,light_exposure_diary,,text,"End Date",,,,,,,,,,,,," @MC-TASK-ENDDATE"
+scheduledate,light_exposure_diary,,text,"Schedule Date",,,,,,,,,,,,," @MC-TASK-SCHEDULEDATE"
+status,light_exposure_diary,,dropdown,Status,"0, Deleted | 1, Completed | 2, Incomplete",,,,,,,,,,,," @MC-TASK-STATUS"
+supplementaldata,light_exposure_diary,,notes,"Supplemental Data (JSON)",,,,,,,,,,,,," @MC-TASK-SUPPLEMENTALDATA"
+serializedresult,light_exposure_diary,,file,"Serialized Result",,,,,,,,,,,,," @MC-TASK-SERIALIZEDRESULT"
