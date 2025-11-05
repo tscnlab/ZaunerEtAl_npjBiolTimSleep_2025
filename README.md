@@ -49,4 +49,5 @@ Licenced under CC-BY 4.0 (Attribution)
 
 # Acknowledgements
 
-We thank all expert interviewees and survey respondents who contributed to the development of the framework, and the broader chronobiology and wearable light measurement community for advancing standards and best practice.
+We would like to thank the following researchers (in alphabetical order) and three anonymous researchers that participated in the auxiliary data survey and contributed to the auxiliary data strategy as it is presented here: Tianren Chen, Débora B. Constantino, Altug Didikoglu, Fatemeh Fazlali, Gena Glickman, Steffen Hartmeyer, Rafael Lazar, Renske Lok, Elise McGlashan, Karin Smolders, and Jamie Zeitzer
+The authors were financially supported by MeLiDos. The project (22NRM05 MeLiDos) has received funding from the European Partnership on Metrology, co-financed by the European Union’s Horizon Europe Research and Innovation Programme and by the Participating States.
