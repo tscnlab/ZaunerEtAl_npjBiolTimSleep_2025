@@ -49,7 +49,12 @@ authors:
       for Biological Cybernetics & TUMCREATE Ltd. & TUM
       Institute for Advanced Study (TUM-IAS)
     orcid: 'https://orcid.org/0000-0002-8572-9268'
+identifiers:
+  - type: doi
+    value: 10.5281/zenodo.17535086
+    description: Zenodo Archive (latest)
 repository-code: 'https://github.com/tscnlab/ZaunerEtAl_npjBiolTimSleep_2025'
+repository-artifact: 'https://doi.org/10.5281/zenodo.17535086'
 keywords:
   - light exposure
   - wearables
